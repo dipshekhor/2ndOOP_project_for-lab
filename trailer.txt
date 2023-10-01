@@ -1,0 +1,7 @@
+
+We are providing the  trailer service.The type of trailers we have rightnow are:
+
+                    |        SIZE        |          WEIGHTS       |  CASE(PER KM) (INSIDE DHAKA) | CASE(PER KM)(OUTSIDE DHAKA)|
+                    |____________________|________________________|______________________________|____________________________|
+                    | BIG and MAXIMUM    |      40-50 tons        |        1000  TK              |         750 TK             |
+                    |____________________|________________________|______________________________|____________________________|

@@ -1,0 +1,7 @@
+We are giving 4 type of truck service rightnow.The including type of trucks are given bellow:
+           Trucktype                     Length                       Weights
+
+   1.      Pickup                       7-9 feet                      1-1.5 tons
+   2.   Medium truck                   14-16 feet                     6-7.5 tons
+   3.   Large truck                    22-24 feet                     15-17 tons
+   4.    Trailer                     BIG and MAXIMUM                  40-50 tonsTHIS

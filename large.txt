@@ -1,0 +1,6 @@
+We are providing the  large trucks service.The type of large trucks we have rightnow are:
+
+                    |        SIZE        |          WEIGHTS       |  CASE(PER KM) (INSIDE DHAKA) | CASE(PER KM) (OUTSIDE DHAKA)|
+                    |____________________|________________________|______________________________|____________________________|
+                    |   22-24 feet       |          15-17 tons    |        500  TK               |         350 TK             |
+                    |____________________|________________________|______________________________|____________________________|
